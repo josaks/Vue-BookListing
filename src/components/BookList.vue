@@ -7,7 +7,7 @@
 <script>
 export default {
     name: 'BookList',
-    data() {{ title: 'All books' }},
+    data() {{ title: 'All Books' }},
 }
 </script>
 
